@@ -16,7 +16,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## Live Demo
 
-[View my portfolio here](https://DJBaraka.github.io/portfolio/)
+[View my portfolio here](https://github.com/DJBaraka/portfolio-website)
 
 ## Contact
 
