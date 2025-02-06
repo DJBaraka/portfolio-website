@@ -20,6 +20,6 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## Contact
 
-- **Email:** [daniel165john@gmail.com](mailto:daniel165john@gmail.com)
+- **Email:** [daniel165john@gmail.com](mailto:daniel165john.com@gmail.com)
 - **GitHub:** [DJBaraka](https://github.com/DJBaraka)
 
